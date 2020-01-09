@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RevQuizSound</string>
+    <string name="answerText">解答くん</string>
+    <string name="answerBtnText">答える</string>
+    <string name="questionText">出題くん</string>
+    <string name="right_Text">せいかい</string>
+    <string name="wrong_Text">まちがい</string>
+    <string name="question_Text">しゅつだい</string>
+    <string name="handclap_Text">はくしゅ</string>
+</resources>
